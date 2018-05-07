@@ -1,5 +1,5 @@
 <?php
-$token='544135936:AAHF-rMnaxZG-E_tbKOYHuBLy9HMvOpo1Y4';
+$token='telegram bot token';
 $url='https://api.telegram.org/bot'.$token;
 $x=100;
 while($x>0){
